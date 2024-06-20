@@ -58,18 +58,23 @@ The training process involves:
 
 ### Evaluation Metrics
 - PSNR
+
 Peak Signal-to-Noise Ratio (PSNR) measures the quality of the generated images compared to the ground truth. Higher PSNR indicates better image quality.
 
 - SSIM
+
 Structural Similarity Index (SSIM) measures the similarity between the generated images and the ground truth. SSIM considers changes in structural information, luminance, and contrast.
 
 - Cosine Similarity
+
 Cosine Similarity measures the similarity between two images by calculating the cosine of the angle between their feature vectors. Higher cosine similarity indicates more similar images.
 
 - FCN-Score
+
 FCN-Score evaluates the segmentation performance of the generated images using a Fully Convolutional Network (FCN). Higher FCN-Score indicates better segmentation quality.
 
 - Qualitative Analysis
+
 Qualitative analysis involves visual inspection of the generated images to assess their realism. This can include side-by-side comparisons with ground truth images and evaluation by human observers.
 
 ## References
