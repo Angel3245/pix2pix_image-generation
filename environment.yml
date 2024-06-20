@@ -1,0 +1,16 @@
+name: cv2
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - ipykernel
+  - matplotlib
+  - scikit-learn
+  - seaborn
+  - tqdm
+  - optuna
+  - plotly
+  - jupyter_client[version='<8']
+  - notebook
+  - pyzmq[version='<25']
+prefix: /home/user/miniconda3/envs/cv2
