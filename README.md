@@ -5,7 +5,7 @@ This project implements an image-to-image translation model using the Pix2Pix ar
 
 ## Dataset Description
 
-The [Semantic Drone Dataset](https://www.tugraz.at/index.php?id=22387) (TU-Graz) dataset [2] is used for training and evaluating the model. This dataset contains we used the Semantic Drone Dataset focused on semantic understanding of urban scenes for increasing the safety of autonomous drone flight and landing procedures. The imagery depicts more than 20 houses from nadir (bird’s eye) view acquired at an altitude of 5 to 30 meters above ground. A high resolution camera was used to acquire images at a size of 400x600.
+The [Semantic Drone Dataset](https://www.tugraz.at/index.php?id=22387) (TU-Graz) dataset [2] is used for training and evaluating the model. This dataset focused on semantic understanding of urban scenes for increasing the safety of autonomous drone flight and landing procedures. The imagery depicts more than 20 houses from nadir (bird’s eye) view acquired at an altitude of 5 to 30 meters above ground. A high resolution camera was used to acquire images at a size of 400x600.
 
 ## Results comparison
 
